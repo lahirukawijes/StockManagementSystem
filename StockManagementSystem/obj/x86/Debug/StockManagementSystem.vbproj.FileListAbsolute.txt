@@ -1,0 +1,55 @@
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.xml
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.exe
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.xml
+c:\users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form2.resources
+C:\Users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form3.resources
+C:\Users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form4.resources
+C:\Users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form5.resources
+C:\Users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form6.resources
+C:\Users\acer\documents\visual studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form7.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+C:\Users\acer\Documents\Visual Studio 2010\Projects\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.vbprojResolveAssemblyReference.cache
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.exe
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.xml
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.pdb
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.xml
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.vbprojResolveAssemblyReference.cache
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form1.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form2.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form3.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form4.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form5.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form6.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form7.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Resources.resources
+H:\Assignment-VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\VB\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+C:\Users\acer\Desktop\VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.exe
+C:\Users\acer\Desktop\VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.xml
+C:\Users\acer\Desktop\VB\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.pdb
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.exe
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.xml
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.pdb
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.xml
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form1.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form2.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form3.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form4.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form5.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form6.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Form7.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.Resources.resources
+C:\Users\acer\Desktop\DOC\VisualBasic Assignment\Project\1\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.vbproj.GenerateResource.Cache
